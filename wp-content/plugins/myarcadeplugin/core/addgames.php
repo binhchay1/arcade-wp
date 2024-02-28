@@ -160,8 +160,9 @@ function myarcade_add_game_post($game)
 	add_post_meta($post_id, 'mabp_game_tag', $game->game_tag);
 	add_post_meta($post_id, 'mabp_game_uuid', $game->uuid);
 	add_post_meta($post_id, 'mabp_game_slug', $game->slug);
-	add_post_meta($post_id, 'mabp_requirements', 'Any Browser');
+	add_post_meta($post_id, 'mabp_technology', 'Any Browser');
 	add_post_meta($post_id, 'mabp_supported', 'Desktop, Mobile, Tablet');
+	add_post_meta($post_id, 'mabp_platform', 'HTML5');
 	add_post_meta($post_id, 'mabp_rating', '100');
 	add_post_meta($post_id, 'mabp_pre_video', '');
 

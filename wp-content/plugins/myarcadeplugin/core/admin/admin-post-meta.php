@@ -117,15 +117,21 @@ function myarcade_game_data_box()
 				));
 
 				myarcade_wp_text_input(array(
-					'id' => 'mabp_requirements',
-					'label' => __('Requirements', 'myarcadeplugin'),
-					'description' => __('Requirements devices', 'myarcadeplugin')
+					'id' => 'mabp_technology',
+					'label' => __('Technology', 'myarcadeplugin'),
+					'description' => __('Technology devices', 'myarcadeplugin')
+				));
+
+				myarcade_wp_text_input(array(
+					'id' => 'mabp_platform',
+					'label' => __('Platform', 'myarcadeplugin'),
+					'description' => __('Platform of game', 'myarcadeplugin')
 				));
 
 				myarcade_wp_text_input(array(
 					'id' => 'mabp_supported',
 					'label' => __('Supported Devices', 'myarcadeplugin'),
-					'description' => __('Devices can support', 'myarcadeplugin')
+					'description' => __('Devices can be supported', 'myarcadeplugin')
 				));
 
 				myarcade_wp_text_input(array(
