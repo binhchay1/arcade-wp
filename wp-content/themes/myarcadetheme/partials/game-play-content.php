@@ -40,6 +40,6 @@
     <?php
     // Display some manage links if logged in user is an admin
     myarcadetheme_admin_links();
-    ?>
+    ?> 
   </div>
 </div>

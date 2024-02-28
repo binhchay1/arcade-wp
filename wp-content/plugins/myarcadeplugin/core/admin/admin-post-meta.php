@@ -134,6 +134,12 @@ function myarcade_game_data_box()
 					'description' => __('%', 'myarcadeplugin')
 				));
 
+				myarcade_wp_text_input(array(
+					'id' => 'mabp_pre_video',
+					'label' => __('Pre Video', 'myarcadeplugin'),
+					'description' => __('Short Video Pre View Games', 'myarcadeplugin')
+				));
+
 				myarcade_wp_select(array(
 					'id' => 'mabp_game_type',
 					'label' => __('Game Type', 'myarcadeplugin'),

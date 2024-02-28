@@ -62,24 +62,6 @@ class Admin_Form
             array(&$this, 'load_view_post'),
             'dashicons-feedback'
         );
-
-        add_submenu_page(
-            $this->get_id(),
-            esc_html__('Trending Search', $this->get_id()),
-            esc_html__('Trending Search', $this->get_id()),
-            'manage_options',
-            $this->get_id() . '_trending',
-            array(&$this, 'load_view_trending')
-        );
-
-        add_submenu_page(
-            $this->get_id(),
-            esc_html__('Set Category', $this->get_id()),
-            esc_html__('Set Category', $this->get_id()),
-            'manage_options',
-            $this->get_id() . '_top_game_app',
-            array(&$this, 'load_view_set_category'),
-        );
     }
 
     public function load_view_post()
