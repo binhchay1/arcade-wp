@@ -72,7 +72,7 @@ if ( ! is_user_logged_in() ) : ?>
   <div class="modal-dialog">
     <div class="modal-content cont">
       <div class="srchbx">
-        <form method="get" id="search_form" action="<?php echo esc_url( home_url() ); ?>">
+        <form method="post" id="search_form" action="<?php echo esc_url( home_url('/search/') ); ?>">
           <input name="s" id="s" type="text" placeholder="<?php _e( 'To search type and hit enter', 'myarcadetheme' ); ?>">
           <button type="submit"><span class="fa-search"><?php _e( 'Search', 'myarcadetheme' ); ?></span></button>
           <p><?php _e( 'PRESS ENTER TO SEARCH', 'myarcadetheme' ); ?></p>

@@ -156,6 +156,9 @@ function myarcade_add_game_post( $game ) {
 	add_post_meta( $post_id, 'mabp_game_tag', $game->game_tag );
 	add_post_meta( $post_id, 'mabp_game_uuid', $game->uuid );
 	add_post_meta( $post_id, 'mabp_game_slug', $game->slug );
+	add_post_meta( $post_id, 'mabp_requirements', $game->slug );
+	add_post_meta( $post_id, 'mabp_supported', $game->slug );
+	add_post_meta( $post_id, 'mabp_rating', $game->slug );
 
 	// Optional fields.
 	if ( $game->height ) {
