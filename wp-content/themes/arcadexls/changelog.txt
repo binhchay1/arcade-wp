@@ -1,0 +1,124 @@
+v3.0.1 - 2020-03-26
+  - Tweak: Removed old BuddyPress themes
+  - Fix: Issues with child themes
+  - Fix: Compatiblity with WP Seo OpenGraph
+  - Fix: CSS for a nested menu
+
+v3.0.0 - 2019-04-18
+  - New: Proper BuddyPress Titles when using Yoast SEO
+  - New: JSON LD Markup For Games
+  - New: JSON LD Markup For Blog Posts
+  - New: Schema.org/WPHeader markup
+  - New: Schema.org/SiteNavigationElement markup
+  - New: Schema.org/WPFooter markup
+  - New: Schema.org/WPSideBar markup
+  - New: Visual Editor for bbPress
+  - New: Proper OG images when using Yoast SEO
+  - New: Change login page Logo (also changes URL + title)
+  - New: Option to hide the sidebar on mobile
+  - New: Option to hide header slider on mobile
+  - New: Option to hide footer slider on mobile
+  - New: Updated TGM Plugin Activation to 2.6.1
+  - New: Added FontAwesome 4.7
+  - New: Reddit Added to social networking buttons
+  - New: Instagram Added to social networking buttons
+  - New: Tumblr added to social networking buttons
+  - New: Pinterest added to social networking buttons
+  - New: Vimeo added to social networking buttons
+  - New: Weibo added to social networking buttons
+  - New: RSS added to social networking buttons
+  - New: WooCommerce Support
+  - New: Lazy Loading For Game Images
+  - New: Option to enable/disable lazy load animation
+  - New: Fallback image in case game is missing one
+  - New: Updated MyArcadePlugin API to 3.1
+  - New: Featured image for Blog Posts & Blog Archive
+  - New: Sticky Sidebar feature added.
+  - New: WordPress Title Support
+  - New: Toolbar Color Support For Android
+  - New: Toolbar Color Support For Windows Devices
+  - New: Improved bbPress forums to look like traditional forum software.
+  - New: Support for WordPress Galleries for blog posts.
+  - New: Option to add own footer copyright text added to the theme panel.
+  - Tweak: Comments tab now shows on Game Play page even if count is less than 1 (also the number shows correctly)
+  - Tweak: Moves Mobile options to own settings
+  - Tweak: Moves Social Networking options to own settings
+  - Tweak: style.css is now properly enqueued
+  - Tweak: Admin Panel Structure Improved Greatly (Settings moved around to improve appearance).
+  - Fix: Comment count now shows correctly on game-play page (on the primary tab).
+
+v2.1.0 - 2016-04-25
+  - New: WordPress 4.5 compatibility
+  - New: PHP 7 compatibility
+  - Tweak: Recommended Plugins: Replaced Lightbox Plugin with WP Lightbox 2
+
+v2.0.1 - 2015-12-06
+  - Fix: PHP Errors and Notices
+
+v2.0.0 - 2015-11-22
+  - New: Display only mobile games on mobile devices (Enable on settings page)
+  - New: Updated TGM Plugin Activation to 2.5.2
+  - Tweak: Removed Redux Framework from theme source. Redux Framework plugin required now!
+  - Tweak: Moved menu entry to Appearance -> Theme Option
+  - Fix: Scores not saved
+  - Fix: PHP Notices in Widgets
+  - Fix: Screenshots not displayed
+
+v1.2.0 - 2015-05-03
+  - New: Video tab support to game-play view of a game
+  - New: Updated to MyArcadePlugin API 3.0
+  - New: Compressed images to improve site loading
+  - New: Remove query string from static files
+  - New: Optimized random games function to minimize db queries
+  - Fix: Game Score Widget from the MyScoresPresenter Plugin
+  - Fix: PHP Notices
+
+v1.1.2 - 2015-01-12
+  - Add: MyArcadeControls Compatibility
+
+  Modified Files:
+  - style.css
+  - functions.php
+  - games-play.php
+  - single-pre-game.php
+
+v1.1.1 - 2014-11-16
+  - Fix: Twitter Link language changed to English on single.php
+  - Fix: Moved Tooltip Position on single.php for a better view
+  - Add: Option to enable BuddyPress compatibility mode
+
+  Modified Files:
+    - games-buttons.php
+    - functions.php
+    - style.css
+
+v1.1.0 - 2014-09-14
+  - Fix: Hide comments tab if comments are disabled for the game view.
+  - Fix: Favorites shows up even when the favorites are disabled in the theme options.
+  - Fix: Styling problems if the game preloader banner is removed.
+  - Fix: The game background style .gamecnt is not padding exactly with the game width
+  - Fix: Keep advert space dimension on the archive view, also with an activated ad blocker
+  - Fix: On/Off Switch to all ad spaces.
+  - Fix: Iframe / Embed games are not centered
+  - Fix: Update HTML5 Shiv to 3.7.2 for better IE Compatibily View
+  - Add: On/Off Switch to disable responsiveness
+  - Add: Logo PSD Files
+
+  Modified Files:
+   - games-play.php
+   - functions.php
+   - style.css
+   - archive.php
+   - header.php
+   - single-pre-game.php
+   - games-play.php
+   - gamer-footer.php
+   - search.php
+   - norsp.css
+   - html5.js
+
+v1.0.1 - 2014-08-19
+  - Fix: Check if MyArcadePlugin functions exists
+
+v1.0.0 - 2014-07-21
+  Initial Release

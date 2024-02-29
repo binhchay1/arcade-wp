@@ -2,6 +2,7 @@
 <div id="gamelist">
 <h1>200 Latest Games</h1>
 <ul>
+<li><a href="http://localhost/arcade-wp/binh-test/" title="Binh test">Binh Test</a></li>
 <li><a href="http://localhost/arcade-wp/rope-man-run/" title="Rope Man Run">Rope Man Run</a></li>
 <li><a href="http://localhost/arcade-wp/block-craft-world/" title="Block Craft World">Block Craft World</a></li>
 <li><a href="http://localhost/arcade-wp/my-bakery-empire-bake-a-cake/" title="My Bakery Empire: Bake A Cake">My Bakery Empire: Bake..</a></li>

@@ -1,0 +1,1271 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: ArcadeXLS ENGLISH\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jonay <yo@jonayrodriguez.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.5\n"
+
+#. Text in function
+#: comments.php:29
+msgid "Comments %s#%s%s"
+msgstr ""
+
+#. Text in echo
+#: comments.php:58
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: comments.php:53
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: comments.php:57
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:1
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#. Text in echo
+#: comments.php:65
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: comments.php:1 comments.php:16
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: comments.php:59
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: comments.php:63
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#. Text in echo
+#: comments.php:62
+msgid "Your comment here..."
+msgstr ""
+
+#. Text in echo
+#: comments.php:55
+msgid "Your email address will not be published."
+msgstr ""
+
+#. Text in echo
+#: content-none.php:7
+msgid "Buscar"
+msgstr ""
+
+#. Text in echo
+#: footer.php:30
+msgid "Back to the top"
+msgstr ""
+
+#. Text in echo
+#: footer.php:28
+msgid "Google+"
+msgstr ""
+
+#. Text in echo
+#: footer.php:14
+msgid "Menu"
+msgstr ""
+
+#. Text in echo
+#: footer.php:30
+msgid "Up"
+msgstr ""
+
+#. Text in function
+#: footer.php:35
+msgid "WordPress Arcade Theme by: %sExells.com%s"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "%sSHARE%s THIS GAME:"
+msgstr ""
+
+#. Text in function
+#: functions.php:412
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Avatar ArcadeXLS"
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "Category Sidebar"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Favorites:"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Loading"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "More games"
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "Others Sidebar"
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "Page Sidebar"
+msgstr ""
+
+#. Text in echo
+#: functions.php:412
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Report"
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "Single Sidebar"
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "This is the sidebar that gets shown on the home page."
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "This is your sidebar that gets shown on most of your pages."
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "This is your sidebar that gets shown on the category pages."
+msgstr ""
+
+#. Text in function
+#: functions.php:413
+msgid "This is your sidebar that gets shown on the game or blog pages."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Twittear"
+msgstr ""
+
+#. Text in echo
+#: functions.php:398
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: games-buttons.php:4
+msgid "Fullscreen"
+msgstr ""
+
+#. Text in echo
+#: games-buttons.php:2
+msgid "TURN LIGHTS OFF/ON"
+msgstr ""
+
+#. Text in function
+#: games-footer.php:11
+msgid "MOST %sPLAYED%s"
+msgstr ""
+
+#. Text in function
+#: games-header.php:10
+msgid "MOST %sPOPULAR%s"
+msgstr ""
+
+#. Text in echo
+#: games-play.php:62
+msgid "COMMENTS"
+msgstr ""
+
+#. Text in echo
+#: games-play.php:75
+msgid "Description:"
+msgstr ""
+
+#. Text in echo
+#: games-play.php:60
+msgid "GAME INFO"
+msgstr ""
+
+#. Text in echo
+#: games-play.php:61
+msgid "INSTRUCCIONS"
+msgstr ""
+
+#. Text in echo
+#: games-play.php:90
+msgid "Instruccions:"
+msgstr ""
+
+#. Text in function
+#: games-play.php:11
+msgid "Next game"
+msgstr ""
+
+#. Text in function
+#: games-play.php:10
+msgid "Prev game"
+msgstr ""
+
+#. Text in echo
+#: games-play.php:64
+msgid "SCREENSHOTS"
+msgstr ""
+
+#. Text in echo
+#: games-random.php:19
+msgid "Play"
+msgstr ""
+
+#. Text in function
+#: games-random.php:19
+msgid "Play %s"
+msgstr ""
+
+#. Text in echo
+#: header.php:61
+msgid "Guest"
+msgstr ""
+
+#. Text in echo
+#: header.php:46
+msgid "HOME"
+msgstr ""
+
+#. Text in echo
+#: header.php:63 header.php:66
+msgid "LOGIN"
+msgstr ""
+
+#. Text in echo
+#: header.php:77
+msgid "MY ACCOUNT"
+msgstr ""
+
+#. Text in function
+#: header.php:8
+msgid "Page %s"
+msgstr ""
+
+#. Text in echo
+#: header.php:48
+msgid "RANDOM GAME"
+msgstr ""
+
+#. Text in echo
+#: header.php:67
+msgid "SIGNUP"
+msgstr ""
+
+#. Text in echo
+#: header.php:88
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: header.php:87
+msgid "Search game..."
+msgstr ""
+
+#. Text in echo
+#: header.php:62
+msgid "Welcome"
+msgstr ""
+
+#. Text in echo
+#: header.php:95
+msgid "Youtube"
+msgstr ""
+
+#. Text in echo
+#: index.php:7
+msgid "ADVERTISEMENTS"
+msgstr ""
+
+#. Text in echo
+#: mtsingle-contest.php:17
+msgid "PLAY NOW!"
+msgstr ""
+
+#. Text in function
+#: sidebar.php:64
+msgid "Click %shere%s to setup this this sidebar!"
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:48
+msgid ""
+"This is your Category Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:20
+msgid "This is your Game Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:63
+msgid "This is your Others Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:34
+msgid "This is your Page Sidebar and no widgets have been placed here, yet!"
+msgstr ""
+
+#. Text in echo
+#: single-fullscreen.php:43
+msgid "Go Back To"
+msgstr ""
+
+#. Text in echo
+#: single-fullscreen.php:15
+msgid "Playing game:"
+msgstr ""
+
+#. Text in function
+#: single-pre-game.php:26
+msgid "%s Game info"
+msgstr ""
+
+#. Text in function
+#: single-pre-game.php:48
+msgid "%s Screen Shots"
+msgstr ""
+
+#. Text in function
+#: single-pre-game.php:13
+msgid "%sRATE%s THIS GAME:"
+msgstr ""
+
+#. Text in echo
+#: single-pre-game.php:41
+msgid "Categories:"
+msgstr ""
+
+#. Text in echo
+#: single-pre-game.php:62
+msgid "Do You Like This Game?"
+msgstr ""
+
+#. Text in echo
+#: single-pre-game.php:64
+msgid "Embed this game on your MySpace or on your Website:"
+msgstr ""
+
+#. Text in function
+#: single-pre-game.php:41
+msgid "Tags:"
+msgstr ""
+
+#. Text in echo
+#: template-blog.php:14
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: template-blog.php:29
+msgid "Uploaded on:"
+msgstr ""
+
+#. Text in echo
+#: template-blog-post.php:23
+msgid "Uploader:"
+msgstr ""
+
+#. Text in function
+#: wpfp-page-template.php:1
+msgid "%s's Favorite Posts."
+msgstr ""
+
+#. Text in function
+#: wpfp-page-template.php:1
+msgid "%s's list is not public."
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid "<p><strong>Error:</strong> Email is invalid.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid "<p><strong>Error:</strong> Passwords do not match.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid ""
+"<p><strong>Error:</strong> The email already exists, please choose another.</"
+"p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid ""
+"<p><strong>Error:</strong> The password must be at least 6 characters.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid ""
+"<p><strong>Error:</strong> The user must contain at least 5 characters.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid ""
+"<p><strong>Error:</strong> User already exists, please choose another.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid "<p><strong>Error:</strong> You must enter a email.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid "<p><strong>Error:</strong> You must enter a password.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid "<p><strong>Error:</strong> You must enter a username.</p>"
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid "<strong>Error:</strong> The user is invalid</p>."
+msgstr ""
+
+#. Text in function
+#: ajax_account.php:1
+msgid ""
+"Registered successfully completed, you can log %sclick here%sclick here%s."
+msgstr ""
+
+#. Text in echo
+#: lgt_login.php:41
+msgid "Close"
+msgstr ""
+
+#. Text in echo
+#: lgt_login.php:55
+msgid "Password:"
+msgstr ""
+
+#. Text in echo
+#: lgt_login.php:59
+msgid "Retype password:"
+msgstr ""
+
+#. Text in echo
+#: lgt_login.php:42 lgt_login.php:63
+msgid "Signup"
+msgstr ""
+
+#. Text in echo
+#: lgt_login.php:47
+msgid "User name:"
+msgstr ""
+
+#. Text in echo
+#: lgt_login.php:51
+msgid "Your email address:"
+msgstr ""
+
+#. Text in function
+#: mt_paginateajax.php:1
+msgid "LOADING MORE GAMES..."
+msgstr ""
+
+#. Text in function
+#: myarcade_api.php:1
+msgid "Image %s"
+msgstr ""
+
+#. Text in function
+#: myarcade_api.php:1
+msgid "Zoom"
+msgstr ""
+
+#. Text in function
+#: setup.php:1
+msgid "Menu footer"
+msgstr ""
+
+#. Text in function
+#: setup.php:1
+msgid "Menu header"
+msgstr ""
+
+#. Text in function
+#: template_redirect.php:145
+msgid "PLAY NOW: %s"
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:159
+msgid "Ad 1"
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:165
+msgid "Ad 2"
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:171
+msgid "Ad 3"
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:177
+msgid "Ad 4"
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:183
+msgid "Ad 5"
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:189
+msgid "Ad 6"
+msgstr ""
+
+#. Text in function
+#: widget_ads125.php:110
+msgid "Advertising"
+msgstr ""
+
+#. Text in function
+#: widget_ads125.php:1
+msgid "Declare up to six 125x125 advertisements to be displayed in a grid."
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:151
+msgid ""
+"Fill in as many ads as you would like to use. You must have at least one. "
+"Ads should be 125x125."
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:160 widget_ads125.php:166 widget_ads125.php:172
+#: widget_ads125.php:178 widget_ads125.php:184 widget_ads125.php:190
+msgid "Image URL:"
+msgstr ""
+
+#. Text in echo
+#: widget_ads125.php:161 widget_ads125.php:167 widget_ads125.php:173
+#: widget_ads125.php:179 widget_ads125.php:185 widget_ads125.php:191
+msgid "Link URL:"
+msgstr ""
+
+#. Text in function
+#: widget_ads125.php:1
+msgid "MyArcade Ads - Square Buttons"
+msgstr ""
+
+#. Text in echo
+#: widget_advertisement.php:63
+msgid "300x250px Banner Code"
+msgstr ""
+
+#. Text in function
+#: widget_advertisement.php:68
+msgid "Advertisement"
+msgstr ""
+
+#. Text in function
+#: widget_advertisement.php:1
+msgid "MyArcade Advertisement"
+msgstr ""
+
+#. Text in function
+#: widget_advertisement.php:1
+msgid "Show advertisements where ever you want in your sidebar."
+msgstr ""
+
+#. Text in function
+#: widget_most_played.php:57
+msgid "Most Played Games"
+msgstr ""
+
+#. Text in function
+#: widget_most_played.php:1
+msgid "MyArcade Most Played Games"
+msgstr ""
+
+#. Text in function
+#: widget_most_played.php:1
+msgid "Shows images of the most played games. WP-PostViews Plugin required!"
+msgstr ""
+
+#. Text in echo
+#: widget_most_played.php:89
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: widget_most_rated.php:56
+msgid "Most Rated Games"
+msgstr ""
+
+#. Text in function
+#: widget_most_rated.php:1
+msgid "MyArcade Most Rated Games"
+msgstr ""
+
+#. Text in function
+#: widget_most_rated.php:1
+msgid "Shows images of the most rated games. WP-Ratings Plugin required!"
+msgstr ""
+
+#. Text in echo
+#: widget_random_games.php:116
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: widget_random_games.php:59
+msgid "Featured Games"
+msgstr ""
+
+#. Text in function
+#: widget_random_games.php:1
+msgid "MyArcade Game Scroller"
+msgstr ""
+
+#. Text in function
+#: widget_random_games.php:1
+msgid "Shows a random game scroller."
+msgstr ""
+
+#. Text in echo
+#: widget_recent_games.php:103
+msgid "Limit"
+msgstr ""
+
+#. Text in function
+#: widget_recent_games.php:1
+msgid "MyArcade Recent Games"
+msgstr ""
+
+#. Text in echo
+#: widget_recent_games.php:59
+msgid "Plays"
+msgstr ""
+
+#. Text in function
+#: widget_recent_games.php:64
+msgid "Recent Games"
+msgstr ""
+
+#. Text in function
+#: widget_recent_games.php:1
+msgid "Shows images of the most recent games."
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:64 widget_user_panel.php:74
+msgid "Activity"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:89
+msgid "Edit My Profile"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:68
+msgid "Friend Requests"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:67 widget_user_panel.php:81
+msgid "Friends"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:88
+msgid "Go to Dashboard"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:78
+msgid "Groups"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:53
+msgid "Hello"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:69
+msgid "Inbox"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:93
+msgid "LOGOUT"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:113
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:129
+msgid "Lost password?"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:76
+msgid "Members"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:85
+msgid "My Scores"
+msgstr ""
+
+#. Text in function
+#: widget_user_panel.php:1
+msgid "MyArcade User Login Panel"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:65
+msgid "Profile"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:127
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:66
+msgid "Settings"
+msgstr ""
+
+#. Text in function
+#: widget_user_panel.php:1
+msgid "Shows the user login and the user panel."
+msgstr ""
+
+#. Text in function
+#: widget_user_panel.php:144
+msgid "User Panel"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:98
+msgid "Your Favorite Games"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:111
+msgid "password"
+msgstr ""
+
+#. Text in echo
+#: widget_user_panel.php:110
+msgid "username"
+msgstr ""
+
+#. Text in function
+#: widget_youtube_video.php:1
+msgid "Embeds a youtube video to your sidebar."
+msgstr ""
+
+#. Text in function
+#: widget_youtube_video.php:82
+msgid "Featured Video"
+msgstr ""
+
+#. Text in function
+#: widget_youtube_video.php:1
+msgid "MyArcade Youtube Widget"
+msgstr ""
+
+#. Text in echo
+#: widget_youtube_video.php:77
+msgid "Video ID"
+msgstr ""
+
+#. Text in echo
+#: 404.php:9
+msgid "404"
+msgstr ""
+
+#. Text in echo
+#: 404.php:10
+msgid ""
+"Sorry, the page you asked for couldn't be found. Please, try to use the "
+"search form below."
+msgstr ""
+
+# Theme options
+msgid "General Settings"
+msgstr ""
+
+msgid "This section customizes the global theme options."
+msgstr ""
+
+msgid "Custom Logo"
+msgstr ""
+
+msgid "Upload to your logo."
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Google Plus"
+msgstr ""
+
+msgid "Blog category"
+msgstr ""
+
+msgid "Select a category that should be used as the regular blog."
+msgstr ""
+
+msgid "Load jQuery from Google CDN"
+msgstr ""
+
+msgid ""
+"Enable this if you want to load the jQuery library from Google CDN instead "
+"from your site."
+msgstr ""
+
+msgid "This could reduce the load time of your site."
+msgstr ""
+
+msgid "Show LoginForm"
+msgstr ""
+
+msgid "Enable this option if you want to activate login form in header."
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Game Count"
+msgstr ""
+
+msgid "Slider Settings"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Enable or disable the slider."
+msgstr ""
+
+msgid "Select game categories that should be displayed on the slider."
+msgstr ""
+
+msgid "Set how many games should be displayed on the slider. (Default: 20)"
+msgstr ""
+
+msgid "Custom Favicon"
+msgstr ""
+
+msgid "Upload to your favicon."
+msgstr ""
+
+msgid "Custom Header Code"
+msgstr ""
+
+msgid "Enter special code. ( e.g.: Mochi Verification)."
+msgstr ""
+
+msgid "Custom Footer Code"
+msgstr ""
+
+msgid "Enter special code ( e.g.: Google Analytics)."
+msgstr ""
+
+msgid "Game Page"
+msgstr ""
+
+msgid ""
+"%sThis section customizes the game presentation and play page of your site.%s"
+msgstr ""
+
+msgid ""
+"Enable this if you want to display a pre-game / game landing page. User will "
+"need to click on a play button."
+msgstr ""
+
+msgid "Game Play Permalink Endpoint"
+msgstr ""
+
+msgid "Define the permalink endpoint for the game play page."
+msgstr ""
+
+msgid ""
+"When you change this then you MUST visit the %sPermalinks Settings%s page "
+"once!"
+msgstr ""
+
+msgid "Game Embed Box"
+msgstr ""
+
+msgid "Enable or disable the game embed box ('Embed this game on your site.."
+msgstr ""
+
+msgid "Display Game Screen Shots"
+msgstr ""
+
+msgid ""
+"Enable this if you want to display game screenshots on single game pages "
+"(only when available)"
+msgstr ""
+
+msgid "Fullscreen Button"
+msgstr ""
+
+msgid "Enable this if you want to display the fullscreen button."
+msgstr ""
+
+msgid "Lights On / Off Button"
+msgstr ""
+
+msgid "Enable this if you want to display the lights button."
+msgstr ""
+
+msgid "Favorite Button"
+msgstr ""
+
+msgid "Enable this if you want to display the favorite button."
+msgstr ""
+
+msgid "Report Button"
+msgstr ""
+
+msgid "Enable this if you want to report button."
+msgstr ""
+
+msgid "Progress Bar"
+msgstr ""
+
+msgid "Enable or disable the progress bar."
+msgstr ""
+
+msgid "Advertisement Banner"
+msgstr ""
+
+msgid "Header Banner"
+msgstr ""
+
+msgid "Lastest Games Banner Left"
+msgstr ""
+
+msgid "Put your code for 300x250 banner here."
+msgstr ""
+
+msgid "Pre-Game Banner"
+msgstr ""
+
+msgid "Put your code for 200x200 banner here."
+msgstr ""
+
+msgid "Game Preloader Banner"
+msgstr ""
+
+msgid "Put your advertisement code for the game preloader here."
+msgstr ""
+
+msgid "Footer Banner"
+msgstr ""
+
+msgid "Put your code for 728x90 banner here."
+msgstr ""
+
+msgid "Styling Options"
+msgstr ""
+
+msgid "Theme Stylesheet"
+msgstr ""
+
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Earth"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "For everything to work properly with the chosen color, off Custom CSS"
+msgstr ""
+
+msgid "Choose Size"
+msgstr ""
+
+msgid "Full Size"
+msgstr ""
+
+msgid "Boxed"
+msgstr ""
+
+msgid "Main Layout"
+msgstr ""
+
+msgid "Choose a sidebar position."
+msgstr ""
+
+msgid "2 Column Left"
+msgstr ""
+
+msgid "2 Column Right"
+msgstr ""
+
+msgid "Enable this option if you want to activate custom css."
+msgstr ""
+
+msgid "Use the default style for customization"
+msgstr ""
+
+msgid "Body Background"
+msgstr ""
+
+msgid "Choose a background (default: #32353C)."
+msgstr ""
+
+msgid "Header/Footer/Widget Title Background"
+msgstr ""
+
+msgid "Choose a background (default: #555b67/#434650)"
+msgstr ""
+
+msgid "Background General 1"
+msgstr ""
+
+msgid "Small Buttons/Headers (default: #26292E)"
+msgstr ""
+
+msgid "Background General 2"
+msgstr ""
+
+msgid "Background content (default: #fff)"
+msgstr ""
+
+msgid "Background General 3"
+msgstr ""
+
+msgid "Buttons/Links (default: #2BA4D6)"
+msgstr ""
+
+msgid "Background - Social Buttons"
+msgstr ""
+
+msgid "Facebook (default: #4F62AE)"
+msgstr ""
+
+msgid "Twitter (default: #2396CD)"
+msgstr ""
+
+msgid "Google + (default: #BE4661)"
+msgstr ""
+
+msgid "Youtube (default: #CE2029)"
+msgstr ""
+
+msgid "Button Header Signup"
+msgstr ""
+
+msgid "Choose a background for Signup button (default: #8CB91E)"
+msgstr ""
+
+msgid "Buttons Header Logout"
+msgstr ""
+
+msgid "Choose a background for Logout button (default: #EC5465)"
+msgstr ""
+
+msgid "Play Botton Background"
+msgstr ""
+
+msgid "Background (default: #F2C510)"
+msgstr ""
+
+msgid "Play Botton Text"
+msgstr ""
+
+msgid "Text (default: #AD7D0B)"
+msgstr ""
+
+msgid "Play Botton Text Shadow"
+msgstr ""
+
+msgid "Text (default: #FFF300)"
+msgstr ""
+
+msgid "Background (default: #E6E7EB)"
+msgstr ""
+
+msgid "Customizing Browser Scroll Bar"
+msgstr ""
+
+msgid "Thumb (default: #F2C510)"
+msgstr ""
+
+msgid "Body Text Color"
+msgstr ""
+
+msgid "Light background? (Text)"
+msgstr ""
+
+msgid "Light background? (Links)"
+msgstr ""
+
+msgid ""
+"Fix the color of the header & footer if you apply a light background (For "
+"example: #fff, #eee, etc...) in your theme. (Default: #fff)"
+msgstr ""
+
+msgid "Links Color"
+msgstr ""
+
+msgid "Pick a color for links (Default: Regular #333333 / Hover #23A96E)"
+msgstr ""
+
+msgid "General Color 1"
+msgstr ""
+
+msgid "Header/Footer text & links (default: #fff)"
+msgstr ""
+
+msgid "General Color 2"
+msgstr ""
+
+msgid "Small Buttons (default: #F2C510)"
+msgstr ""
+
+msgid "General Color 3"
+msgstr ""
+
+msgid "Small text (post info) (Default: #aaa)"
+msgstr ""
+
+msgid "Forms: Regular Background Fields"
+msgstr ""
+
+msgid "BACKGROUND (Default: #F2F3F7)"
+msgstr ""
+
+msgid "Forms: Focus Background Fields"
+msgstr ""
+
+msgid "Background (Default: #fff)"
+msgstr ""
+
+msgid "Forms: Regular Text Fields"
+msgstr ""
+
+msgid "Text (Default: #999)"
+msgstr ""
+
+msgid "Forms: Focus Text Fields"
+msgstr ""
+
+msgid "BACKGROUND (Default: #666)"
+msgstr ""
+
+msgid "Delete/Close Links"
+msgstr ""
+
+msgid "Choose a color (default: #EC5465)"
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+msgid "Theme options"
+msgstr ""
+
+msgid "Visit us on YouTube"
+msgstr ""
+
+msgid "Like us on Facebook"
+msgstr ""
+
+msgid "Follow us on Twitter"
+msgstr ""
+
+msgid "Buy ArcadeXLS in %sExells.com%s"
+msgstr ""

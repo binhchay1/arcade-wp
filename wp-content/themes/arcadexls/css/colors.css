@@ -1,0 +1,49 @@
+/*=====<Background/Gradient/Box-shadow>=====*/
+/*Background*/body{background-color:#32353C}
+input,select,textarea,.slctbx,.widget_calendar thead th,.tagcloud a,img.avatar{background-color:#F2F3F7}
+.botn.iconb-user{background-color:#8CB91E}
+.botn.iconb-lgot,[class*="botn"].logout{background-color:#EC5465}
+[class*="bgco1"],.pstcnt header,.pstcnt .iconb-game,.wp-pagenavi a,.wp-pagenavi span,.widget_mabp_recent_games .bx-controls a,.navcom a,.navcom span,.imgcnt,.lstabs>li>a>span>strong,.gamecnt,.game_opts a:hover{background-color:#26292E}
+[class*="bgco2"],.bltitl.lstabs a.active,.bltitl.lstabs li.active a,#progressbar>div>span,.padder,ul#activity-stream li.activity-item{background-color:#fff}
+[class*="botn"],a[class*="botn"],button,input[type="reset"],input[type="submit"],.iconb-menu:hover,.iconb-btop:hover,.widget_calendar caption,.widget_calendar tbody a,.tagcloud a:hover,.widget_display_stats dd strong,.menusr ul,.lstabs>li>a.active>span>strong,.item-list-tabs li a span,[class*="generic-button"] a,li.load-more a{background-color:#2BA4D6}
+.bltitl+ul>li:nth-child(even),.lstfavgms>li:nth-child(even),.widget_bp_core_members_widget .item-list>li:nth-child(even),.sldrcn_gms>li:nth-child(even),.widget_bp_core_members_widget .item-options,.widget_nav_menu>div+div>ul>li:nth-child(even),.widget_display_stats dl :nth-child(4n+3),.widget_bp_groups_widget .item-options,.widget_bp_groups_widget .item-list>li:nth-child(even),.widget_myscore_leaderboard .bltitl+ul>li>div>div:nth-child(even){background-color:#F7F8FA}
+.iconb-face:hover{background-color:#4F62AE}
+.iconb-twit:hover{background-color:#2396CD}
+.iconb-goog:hover{background-color:#BE4661}
+.iconb-yout:hover{background-color:#CE2029}
+.iconb-tumblr:hover{background-color:#35465c}
+.iconb-reddit:hover{background-color:#cc0000}
+.iconb-instagram:hover{background-color:#125688}
+.iconb-pinterest:hover{background-color:#cb2027}
+.iconb-vimeo:hover{background-color:#45bbff}
+.iconb-weibo:hover{background-color:#bb3e3e}
+.iconb-rss:hover{background-color:#ff6600}
+::-webkit-scrollbar{background-color:#E6E7EB}
+::-webkit-scrollbar-thumb{background-color:#F2C510}
+.pstcnt .iconb-game span,#progressbar>div,.mCSB_dragger_bar{background-color:#F2C510}
+.mCSB_draggerRail{background-color:#E6E7EB}
+/*Gradient*/[class*="bgdg1"],.bltitl,.game_opts{background:#555b67;background:linear-gradient(to bottom,  #555b67 0%,#434650 100%)}
+/*Box-shadow*/[class*="shdw1"],.game_opts{box-shadow:0 2px 5px #26292E, inset 0 1px 0 0 rgba(255,255,255,.10)}
+.blkcnt,.padder,ul#activity-stream li.activity-item{box-shadow:0 2px 5px #26292E}
+.bltitl{box-shadow:inset 0 1px 0 0 rgba(255,255,255,.10)}
+[class*="bgco1"],.advmnt:after,.wp-pagenavi a,.wp-pagenavi span,.widget_mabp_recent_games .bx-controls a,.navcom a,.navcom span,.gamecnt,.game_opts a:hover{box-shadow:0 1px 0 rgba(255,255,255,.10)}
+/*Input*/input[type="text"],input[type="password"],textarea,select,.slctbx{color:#999;border-color:1px solid #F2F3F7;}
+/*Input:focus*/input[type="text"]:focus,input[type="password"]:focus,textarea:focus,.slctbx.focus{background-color:#fff;color:#666;}
+
+/*=====<Color>=====*/
+body{color:#666}
+a,.bltitl.lstabs a.active,.bltitl.lstabs li.active a{color:#333}
+a:hover,.bltitl+ul>li>a:hover:before,#today,.widget_nav_menu a:hover:before,.lstfavgms>li:hover>a,.widget_bp_core_members_widget .item-options a.selected,code,abbr[title],.usrcmt a,.comment-reply-link:hover:before,.infcmt a:hover,.game-info footer a:hover,.lstabcn .navcom span.current,.lstabcn .navcom a:hover,.checkbox.checked .mt_input:before,.pagination-links span.current,.widget_bp_groups_widget .item-options a.selected,.picker-checkbox.checked .picker-flag:before,.activity-meta .acomment-reply:hover,.acomment-options .acomment-reply:hover{color:#2BA4D6}
+.hdcn,.hdcn a,.ft,.ft a,.pstcnt a,.loadcn,.sldrgmcnt,.bx-controls a,.bx-controls a.disabled:hover,.title,.brdcrm,.brdcrm a,.wp-pagenavi,.wp-pagenavi a,.bltitl,.bltitl a,.widget_calendar caption,.widget_calendar tbody a,.tagcloud a:hover,.widget_display_stats dd strong,.menusr ul a,.navcom,.navcom a,.game-brcn,.shrpst,.title-play>span a,.bltitl.lstabs a,.lstabs>li>a>span>strong,.lstabs>li>a.active>span>strong,.game_opts a,.item-list-tabs li a span,#bordeswf,[class*="botn"],a[class*="botn"],button,input[type="reset"],input[type="submit"],[class*="generic-button"] a,li.load-more a{color: #fff;}
+.usrbx p+p a,.menucn>ul>li:hover>a:before,.pstcnt header h2 a:hover,.iconb-load:before,.sldr-title:before,.bx-controls a:hover,.brdcrm a:before,.wp-pagenavi a:hover,.wp-pagenavi span.current,.bltitl>span,.bltitl>h3>span,.navcom a:hover,.navcom span.current,.game-brcn :before,.shrpst :before,.title-play>span:hover,.title-play>span a:hover,.lstabs>li>a>span>strong,.game_opts a:hover{color: #F2C510;}
+.pstcnt .iconb-game:before{color: #AD7D0B;text-shadow:1px 1px 0 #FFF300}
+.modal-header .close,.logout-link,.logout,a.remove-parent,.lstfavgms>li:hover>a+a,a.button.fav, a.button.unfav,.activity-meta .delete-activity-single:hover,.acomment-options .acomment-delete:hover,.activity-meta .delete-activity:hover,.ui-icon-closethick:before{color: #EC5465;}
+span.activity,.widget_ratings-widget ul li,.info-ics,.infcmt,.infcmt a,.game-info footer,.game-info footer a,.srchbx input[type="text"]:focus,.widget_display_replies li div,.widget_display_topics li div,.widget_recent_entries .post-date{color: #aaa;}
+.lstabcn .navcom a,.lstabcn .navcom span{color: #999;}
+
+/*=====<Responsive>=====*/
+@media screen and (min-width: 1061px)
+{
+/*Menu*/
+.menucn>ul>li:hover>a,.menucn ul ul{background-color: #26292E;}
+}

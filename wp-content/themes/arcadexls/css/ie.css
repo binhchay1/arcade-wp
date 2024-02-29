@@ -1,0 +1,32 @@
+/*=====<IE>=====*/
+@-ms-viewport{width:device-width}
+ul,div,section,header,footer,article,aside,nav{zoom:1}
+img{-ms-interpolation-mode:bicubic;width:auto}
+input[type="checkbox"],input[type="radio"]{width:13px;height:13px;padding:0}
+input[type="submit"],input[type="button"],button,a i,a span{cursor:pointer}
+
+/*RGBA*/.ie8 span.activity,.ie8 .widget_display_replies li div,.ie8 .widget_display_topics li div,.ie8 .widget_recent_entries .post-date{background-image: url(../img/ie/rgba-b5.png);}
+.ie8 .hdcn1:after,.ie8 .navcnt:before,.ie8 .usrbx:after,.ie8 .btnshd:before,.ie8 .menusr ul li:hover{background-image: url(../img/ie/rgba-b10.png);}
+.ie8 .hdcn2:before,.ie8 .logo:after,.ie8 .navcnt:after,.ie8 .usrbx:before,.ie8 .btnshd:after,.ie8 .srcsoc:before{background-image: url(../img/ie/rgba-w10.png);}
+.ie8 [class*="rgba1"],.ie8 .btnshd .botn:before,.ie8 .menucn ul ul li:hover a,.ie8 .advmnt:after,.ie8 .bltitl.lstabs a,.ie8 #progressbar{background-image: url(../img/ie/rgba-b20.png);}
+.ie8 .pstcnt figure a:after{background-image: url(../img/ie/rgba-b50.png);}
+/*Gradient*/[class*="bgdg1"]{background-image: url(../img/ie/bgdg.png);background-repeat:repeat-x;background-position: 0 100%;}
+/*Opacity*/.ie8 .pstcnt figure a:after,.ie8 .lstfavgms .remove-parent,.ie8 .menusr ul,.ie8 .pstcnt header,.ie8 .fade,.ie8 .tooltip,.ie8 .modal-backdrop.fade{filter: alpha(opacity=0);}
+.ie8 .brdcrm span{filter: alpha(opacity=20);}
+.ie8 .menucn>ul>li>a:before,.ie8 .menucn>ul>li>a:after,.ie8 .menucn ul ul a,.ie8 .srchbx button:hover,.ie8 .bx-controls-direction a.disabled,.ie8 .brdcrm a,.ie8 .brdcrm strong,.ie8 .game_opts a,.ie8 .modal-backdrop.in{filter: alpha(opacity=50);}
+.ie8 .tooltip.in{filter: alpha(opacity=90);}
+.ie8 .menucn>ul>li:hover>a:before,.ie8 .menucn ul ul a:hover,.ie8 .srchbx button:active,.ie8 .pstcnt:hover figure a:after,.ie8 .brdcrm a:hover,.ie8 .lstfavgms li:hover .remove-parent,.ie8 .menusr li:hover ul,.ie8 .mycnt [class*="botn"]:hover,.ie8 .game_opts a:hover,.ie8 .pstcnt:hover header,.ie8 .fade.in,.ie8 [class*="generic-button"] a:hover,.ie8 li.load-more a:hover{filter: alpha(opacity=100);}
+
+/*=====<Responsive>=====*/
+@media screen and (max-width: 1060px)
+{
+/*Menu*/
+.ie8 .menucn a:hover,.menucn ul ul a:hover{background-image: url(../img/ie/rgba-b20.png);}
+.ie8 .menucn ul{background-image: url(../img/ie/rgba-b10.png);}
+}
+
+/*
+   \`.,'/
+   /_  _\
+     \/
+*/

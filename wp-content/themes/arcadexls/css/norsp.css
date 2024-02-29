@@ -1,0 +1,12 @@
+@media screen
+{
+.wrpp{max-width:1510px;}
+/*bdcn*/
+.cont{width: 1170px;}
+.sldrgmcnt{width: 750px;padding-left: 230px;margin: auto;}
+}
+.bnrsld .bnr728{margin-bottom: 10px;}
+
+{
+.tooltip.top{display: none!important;}
+}
