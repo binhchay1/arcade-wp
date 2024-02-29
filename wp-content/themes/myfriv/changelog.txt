@@ -1,0 +1,57 @@
+= 3.3.0 - 2020-03-15 =
+  New - Replaced old grid implementation with jQuery masonry
+  New - Increased game size on mobile devices
+  New - Increased font size to improve readability
+  Tweak - Improvements at responsive design
+  Fix - Comments list
+
+= 3.2.0 - 2019-12-26 =
+  Tweak - Improvements at responsive design
+  Tweak - Show a clock icon while loading content for infinite scroll
+  Tweak - Removed old BuddyPress files
+  Tweak - Reduced cursor size to 32 px
+  Fix - Dummy image not displayed if thumbnail doesn't exist
+
+= 3.1.0 - 2019-04-18 =
+  Fix - Removed screen icons because they are no longer used in WordPress
+  Fix - Removed horizontal scrolling bar
+
+= 3.0.2 - 2016-08-21 =
+  Fix - Upload Logo Image
+  Fix - Theme options Textarea sanitize filter for strip tags
+
+= 3.0.1 - 2016-08-18 =
+  Fix - Infinite Scroll
+  Fix - Advertisement Space for Mobile View
+
+= 3.0.0 - 2016-04-05 =
+  New - Fullscreen mode
+  New - Turn lights on/off feature
+  New - Compatible with latest MyArcadePlugin version
+  New - MyArcade Theme API updated to v3.1.0
+  New - Theme requires WordPress 4.1 or later
+  New - Hide WordPress version generator
+  New - HTML5 markup for search, comment, gallery
+  New - qTip2 updated to 2.2.1
+  Tweak - Language file updated and typo fixes
+  Tweak - Optimized scripts and styles loading
+  Tweak - Removed inline JavaScript code
+  Tweak - Removed unused JavaScript files
+  Tweak - Removed TimThumb library
+  Tweak - Search engine optimization (SEO)
+  Tweak - Improved related games query and output
+  Fix - Theme options CSS
+  Fix - PHP warnings and notices
+
+= 2.0.1 - 2015-03-21 =
+  Fix - PHP Notices
+
+= 2.0.0 - 2014-01-08 =
+  New - Added some features
+
+= 1.5.0 - 2013-09-23 =
+  New - Some Features included
+  Fix - Correction of bugs
+
+= 1.0.0 - 2013-09-01 =
+  Initial Release

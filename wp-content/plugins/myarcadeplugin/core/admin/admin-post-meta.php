@@ -140,12 +140,6 @@ function myarcade_game_data_box()
 					'description' => __('%', 'myarcadeplugin')
 				));
 
-				myarcade_wp_text_input(array(
-					'id' => 'mabp_pre_video',
-					'label' => __('Pre Video', 'myarcadeplugin'),
-					'description' => __('Short Video Pre View Games', 'myarcadeplugin')
-				));
-
 				myarcade_wp_select(array(
 					'id' => 'mabp_game_type',
 					'label' => __('Game Type', 'myarcadeplugin'),
@@ -237,6 +231,12 @@ function myarcade_game_data_box()
 					'id' => 'mabp_video_url',
 					'label' => __('Video URL', 'myarcadeplugin'),
 					'description' => __('Paste a game play video URL (YouTube Link) here.', 'myarcadeplugin')
+				));
+
+				myarcade_wp_text_input(array(
+					'id' => 'mabp_pre_video',
+					'label' => __('Pre Video', 'myarcadeplugin'),
+					'description' => __('Paste link file gif here.', 'myarcadeplugin')
 				));
 				?>
 			</div>
@@ -439,6 +439,10 @@ function myarcade_meta_box_save($post_id)
 	update_post_meta($post_id, 'mabp_thumbnail_url', filter_input(INPUT_POST, 'mabp_thumbnail_url'));
 	update_post_meta($post_id, 'mabp_swf_url', filter_input(INPUT_POST, 'mabp_swf_url'));
 	update_post_meta($post_id, 'mabp_video_url', filter_input(INPUT_POST, 'mabp_video_url'));
+	update_post_meta($post_id, 'mabp_pre_video', filter_input(INPUT_POST, 'mabp_pre_video'));
+	update_post_meta($post_id, 'mabp_technology', filter_input(INPUT_POST, 'mabp_technology'));
+	update_post_meta($post_id, 'mabp_supported', filter_input(INPUT_POST, 'mabp_supported'));
+	update_post_meta($post_id, 'mabp_platform', filter_input(INPUT_POST, 'mabp_platform'));
 
 	for ($i = 1; $i <= 4; $i++) {
 		$fieled = "mabp_screen{$i}_url";

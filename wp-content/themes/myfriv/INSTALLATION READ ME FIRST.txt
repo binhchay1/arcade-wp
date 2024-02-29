@@ -1,0 +1,42 @@
+INSTALLATION
+
+1. Upload the "myfriv" folder to your Wordpress themes folder like: 
+wp-content/themes/myfriv
+
+2. Activate the theme in Appearance > Themes > Activate MyFriv
+
+/* OTHER SETTINGS */
+
+------- How to create a footer menu? -------
+
+For create a footer menu with buttons like contact, privacy policy or any, follow these steps:
+
+1. Go to Appearance > Menus
+
+2. Create a new menu with any name and any buttons and click on "Save Menu"
+
+3. Now check the "Footer menu" option that appear down of "Menu Settings" and click again on "Save Menu"
+
+------ How configure the quantity of games to show in the index page? --------
+
+1. go to Settings > Reading
+
+2. change the number of post to show in the option "Blog pages show at most"
+
+/**** OPTIONAL PLUGIN *****/
+
+For create a social game site you have to install the plugin called "Buddypress" (Included in the Optional Plugins Folder)
+
+1. Upload the Plugin
+
+2. Activate
+
+NECESARY STEP!!
+
+3. Go to Wp Admin > Settings > Buddypress > Pages and configure all the pages as you want! 
+
+
+
+All done!
+
+ENJOY YOUR MYFRIV THEME!

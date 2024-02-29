@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in echo
+msgid "Categories"
+msgstr "Categorias"
+
+#. Text in echo
+msgid "Sorry, the search is not found!"
+msgstr "Disculpa, lo que buscabas no se encontro!"
+
+#. Text in echo
+msgid "Try another search..."
+msgstr "Intenta buscando algo mas..."
+
+#. Text in echo
+msgid "Related"
+msgstr "Relacionados"
+
+#. Text in echo
+msgid "Game loading!"
+msgstr "El juego se esta cargando!"
+
+#. Text in echo
+msgid "Skip"
+msgstr "Omitir"
+
+#. Text in echo
+#: myfriv/single.php:9
+msgid "Game description"
+msgstr "Descripción del juego"
+
+#. Text in echo
+#: myfriv/single.php:9
+msgid "Loading games"
+msgstr "Cargando mas juegos"
+
+#. Text in echo
+msgid "Home"
+msgstr "Inicio"
+
+#. Text in echo
+msgid "Most Played"
+msgstr "Mas Jugados"
+
+#. Text in echo
+msgid "Profile"
+msgstr "Perfil"
+
+#. Text in echo
+msgid "Activity"
+msgstr "Actividad"
+
+#. Text in echo
+msgid "Logout"
+msgstr "Desconectarse"
+
+#. Text in echo
+msgid "Search for"
+msgstr "Busqueda para"
