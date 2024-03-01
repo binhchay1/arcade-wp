@@ -85,6 +85,83 @@
           <section class="blcnbx">
             <figure class="imgcnt"><?php myarcade_thumbnail(array('width' => 130, 'height' => 130, 'lazy_load' => arcadexls_get_option('lazy_load'), 'show_loading' => arcadexls_get_option('lazy_load_animation'))); ?></figure>
             <section>
+              <?php
+              $get_post_meta = get_post_meta(get_the_ID());
+              $date = get_the_modified_date('F j, Y', get_the_ID());
+              $dateTime = get_the_modified_date('Y-m-d', get_the_ID());
+
+              ?>
+              <style>
+                .stats-wrapper {
+                  display: flex;
+                  flex-wrap: wrap;
+                }
+
+                .game-meta {
+                  display: table;
+                  flex-grow: 1;
+                  line-height: 2;
+                }
+
+                .meta-row {
+                  display: table-row;
+                  width: 100%;
+                }
+
+                .meta-label {
+                  border-top: #ddd solid 1px;
+                }
+
+                .meta-value {
+                  display: table-cell;
+                  border-top: #ddd solid 1px;
+                  padding: 0 10px;
+                  text-align: left;
+                  width: 50%;
+                }
+              </style>
+              <div class="stats-wrapper">
+                <ul class="game-meta info">
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Game Type</div>
+                    <div class="meta-value"><?php echo $get_post_meta['mabp_game_type'][0] ?></div>
+                  </li>
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Technology</div>
+                    <div class="meta-value"><?php echo $get_post_meta['mabp_technology'][0] ?></div>
+                  </li>
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Supported Devices</div>
+                    <div class="meta-value"><?php echo $get_post_meta['mabp_supported'][0] ?></div>
+                  </li>
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Game Resolution</div>
+                    <div class="meta-value"><?php echo $get_post_meta['mabp_width'][0] ?> x <?php echo $get_post_meta['mabp_height'][0] ?></div>
+                  </li>
+                </ul>
+                <ul class="game-meta info">
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Last Updated</div>
+                    <div class="meta-value">
+                      <time datetime="<?php echo $dateTime ?>"><?php echo $date ?></time>
+                    </div>
+                  </li>
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Play Count</div>
+                    <div class="meta-value"><?php echo $get_post_meta['myarcade_plays'][0] ?></div>
+                  </li>
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Platform</div>
+                    <div class="meta-value"><?php echo $get_post_meta['mabp_platform'][0] ?></div>
+                  </li>
+                  <li class="meta-row">
+                    <div class="meta-label subtle">Rating</div>
+                    <div class="meta-value"><?php echo $get_post_meta['mabp_rating'][0] ?>%</div>
+                  </li>
+                </ul>
+              </div>
+            </section>
+            <section>
               <p><strong><?php _e('Description:', 'arcadexls'); ?></strong></p>
               <p><?php myarcade_description(); ?></p>
             </section>

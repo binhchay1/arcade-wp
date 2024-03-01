@@ -1,25 +1,37 @@
 <?php
 get_header();
 
-if ( is_category() ) {
+if (is_category()) {
   // Generate a new query on category pages
   global $query_string;
   $query = $query_string . arcadexls_mobile_tag();
-  query_posts( $query );
+  query_posts($query);
 }
 
-if ( have_posts() ) :
-  if( arcadexls_get_option( 'mtlastlbanner-switch', 1) == '1'){
-    $mtlastlbanner=stripslashes( arcadexls_get_option('mtlastlbanner') );
-    ?>
+if (have_posts()) :
+  if (arcadexls_get_option('mtlastlbanner-switch', 1) == '1') {
+    $mtlastlbanner = stripslashes(arcadexls_get_option('mtlastlbanner'));
+?>
     <section class="advmnt advmnt-a bgco1 flol rnd5" data-titl="<?php _e('ADVERTISEMENTS', 'arcadexls'); ?>">
       <?php echo $mtlastlbanner; ?>
     </section>
-    <?php
+  <?php
   }
+  $table_category = $wpdb->prefix . 'category_custom';
+  $category = get_category(get_query_var('cat'));
+
+  $result = $wpdb->get_results("SELECT * FROM $table_category WHERE `category_id` = $category->term_id ");
+  $description = $result[0]->content;
+
+  echo htmlspecialchars_decode($description);
   ?>
-  <ul id="content" class="pstgms lstli">
-    <?php while ( have_posts() ) : the_post(); ?>
+  <style>
+    a {
+      color: aquamarine !important;
+    }
+  </style>
+  <ul id="content" class="pstgms lstli" style="margin-top: 20px;">
+    <?php while (have_posts()) : the_post(); ?>
       <li class="post">
         <article class="pstcnt bgco1 rnd5">
           <figure class="rnd5"><a href="<?php the_permalink(); ?>"><?php myarcade_thumbnail(130, 130); ?></a></figure>
@@ -36,7 +48,7 @@ if ( have_posts() ) :
   <?php mt_pagination(); ?>
 <?php else :
   // If no content, include the "No posts found" template.
-  get_template_part( 'content', 'none' );
+  get_template_part('content', 'none');
 endif;
 
 get_footer();
